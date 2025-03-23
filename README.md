@@ -1,22 +1,36 @@
-## Hi there 👋
+# 👋 Welcome to my Digital Playground
 
-<!--
-**Yanivshus/Yanivshus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Security Banner](https://img.shields.io/badge/Focus-Security%20%26%20Low%20Level-red)
+![C/C++](https://img.shields.io/badge/Languages-C%2FC%2B%2B-blue)
+![Assembly](https://img.shields.io/badge/Assembly-x86/ARM-lightgrey)
 
-Here are some ideas to get you started:
+## 💻 Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asm/asm-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+- **🛡️ Security Research**: Memory corruption, exploitation techniques, fuzzing
+- **⚙️ Low-Level Development**: Operating systems, drivers, embedded systems
+- **🔍 Reverse Engineering**: Binary analysis, disassembly, malware analysis
+- **🧪 Systems Programming**: Performance optimization, hardware interaction
+
+## 🧰 Toolbox
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/-GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-4A154B?style=flat&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-5C2D91?style=flat&logo=ida&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yanivshus)
+
+---
+
+> "Understanding a system at its lowest level is the key to building secure and efficient software."
